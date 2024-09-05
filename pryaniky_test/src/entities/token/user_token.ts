@@ -1,0 +1,1 @@
+export const USER_TOKEN = 'supersecrettoken_for_user8';
